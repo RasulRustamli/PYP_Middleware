@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYP_Middleware", "PYP_Middleware\PYP_Middleware.csproj", "{869B0D3B-B604-4567-989E-37CC1241D19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869B0D3B-B604-4567-989E-37CC1241D19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869B0D3B-B604-4567-989E-37CC1241D19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869B0D3B-B604-4567-989E-37CC1241D19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869B0D3B-B604-4567-989E-37CC1241D19F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {353BDE1A-FE48-473E-A6F4-BD67F47BB03D}
+	EndGlobalSection
+EndGlobal
